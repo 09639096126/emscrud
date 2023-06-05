@@ -1,0 +1,19 @@
+npm install --save @fortawesome/fontawesome-free
+
+
+console.log(item);
+
+npm install ngx-toastr
+ Then add at Angular.Json 
+                "styles": [
+               "node_modules/ngx-toastr/toastr.css",
+                ]
+npm install @angular/animations@latest
+npm cache clean --force
+npm install @angular/common@latest
+npm install ngx-toastr@latest
+npm install ngx-toastr@latest --legacy-peer-deps
+npm install ngx-toastr@latest --force
+
+
+
